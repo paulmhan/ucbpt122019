@@ -1,0 +1,46 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin:5px;
+    
+}
+
+#profile-name {
+    font-size:18px;
+    color: red;
+}
+
+.h2-name {
+    color:blue;
+}
+
+.centered{
+    text-align: center;
+}
+
+.img-div{
+    background-color:lightgreen;
+}
+
+.text-div{
+    background-color:salmon;
+    float:left;
+    width:33%;
+}   
+
+.list-div{
+    background-color:plum;
+    float:left;
+    width:50%;
+
+}
